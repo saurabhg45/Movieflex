@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  margin: 0;
+  font-family: Poppins !important;
+  background-color: #343a40 !important;
+  color: white !important;
+}
+
+.menus {
+  width: 100%;
+  justify-content: end;
+  gap: 15px;
+}
+
+.footer {
+  height: 50px;
+  padding-top: 15px;
+  color: black !important;
+}
+
+.footer a {
+  color: black !important;
+  text-decoration: none;
+}
+
+.pagination {
+  justify-content: space-evenly;
+}
+
+.heading {
+  text-align: center;
+}
+
+.card {
+  border-radius: 10px !important;
+}
+
+.h4,
+.p {
+  text-align: center;
+}
+
+.moviedetails {
+  background-color: black;
+}
+
+.over {
+  font-size: smaller;
+}
